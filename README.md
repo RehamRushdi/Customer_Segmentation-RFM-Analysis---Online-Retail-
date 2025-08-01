@@ -95,16 +95,7 @@ The final Power BI dashboard includes:
 
 ---
 
-## 🔗 Links
-
-- 📎 Dataset: [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail)  
-- 💻 GitHub Repo: [[Link](https://github.com/RehamRushdi/Customer_Segmentation-RFM-Analysis---Online-Retail-)]
-
----
-
 ## 📬 Contact
 
 Feel free to connect or reach out for collaboration or questions:  
 [Reham Mahmoud] – [[LinkedIn Profile](https://www.linkedin.com/in/reham-mahmoud-rushdi/)]
-## 📁 Repository Structure
-
